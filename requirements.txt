@@ -1,0 +1,7 @@
+streamlit
+cohere
+pdfplumber
+docx2txt
+python-docx
+spacy 
+matplotlib
